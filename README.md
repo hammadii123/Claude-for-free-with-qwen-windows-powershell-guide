@@ -182,6 +182,12 @@ Delete this file:
 C:\Users\YourName\.qwen\oauth_creds.json
 ```
 
+Or Run this command simply:
+
+```
+del "$env:USERPROFILE\.qwen\oauth_creds.json"
+```
+
 Then run:
 
 ```
